@@ -1,4 +1,4 @@
-<h1 align="center"> AI Waifu (VTuber) </h1>
+<h1 align="center"> AI Girlfriend with VTube Studio</h1>
 
 <div align="center">
   
