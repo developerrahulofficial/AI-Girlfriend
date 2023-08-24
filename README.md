@@ -34,7 +34,7 @@
 
 ## Showcase
 
-[![Video demonstration](https://i.ibb.co/zm42TCq/2023-08-23-104833.png)](https://youtu.be/e8sF09jf_DA)
+live demo here : https://www.youtube.com/shorts/SL3E6bAc6Qc
 
 *Demonstration in real time without cutouts or speed up. This is real delay in answers.
 
